@@ -1,4 +1,4 @@
-# The complete genome and physiological analysis of the eurythermal firmicute *Exiguobacterium chiriqhucha* strain RW2 isolated from a freshwater microbialite, widely adaptable to broad thermal, pH and salinity ranges
+## The complete genome and physiological analysis of the eurythermal firmicute *Exiguobacterium chiriqhucha* strain RW2 isolated from a freshwater microbialite, widely adaptable to broad thermal, pH and salinity ranges
 
 Manuscript is currently in review. 
 
@@ -12,4 +12,6 @@ This repo holds scripts to process data and build graphs. Outputs, results, and 
 
 **Data**
 
-The informatics point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw937). If you have any questions or feedback, please feel free to get in touch by email. Or (open an issue) [https://github.com/raw937/Strain_RW2/issues]!
+The informatics point-of-contact for this project is [Dr. Richard Allen White III](https://github.com/raw937). 
+If you have any questions or feedback, please feel free to get in touch by email. [Dr. Richard Allen White III](raw937@gmail.com).  
+Or [open an issue] (https://github.com/raw937/Strain_RW2/issues).
