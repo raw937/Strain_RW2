@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Written RAWIII
+#First created Aug 1, 2018
 
 ##Align with mafft
 ~/mafft-7.394-without-extensions/core/./mafft --localpair --maxiterate 1000 fig2_exi_16S_sequences.fasta >fig2_exi_16S_alignment.clust
