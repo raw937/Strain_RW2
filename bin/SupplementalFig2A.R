@@ -2,7 +2,7 @@
 # Written by RAWIII March 24, 2014
 #First created Nov 20, 2013
 #Last update Aug 1st, 2018
-#Supplemental Figure 2
+#Supplemental Figure 2A
 
 # Load Libraries
 library("gplots")
