@@ -1,6 +1,6 @@
 #Exiguobacterium Comperative MetaCyc Venn Diagram (High Genome similarity)
-# Written by RAWIII March 24, 2014
-#First created Nov 20, 2013
+#Written by RAWIII 
+#First created March 24, 2014
 #Last update Aug 1st, 2018
 #Supplemental Figure 2A
 
