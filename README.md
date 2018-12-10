@@ -4,7 +4,7 @@ Manuscript is currently accepted.
 
 This is the code and analysis for this article. 
 
-Journal Article is: Richard Allen White III, Sarah A Soles, Greg Gavelis, Emma Gosselin, Greg F Slater, Darlene S. S. Lim, Brian Leander, Curtis A. Suttle. **The complete genome and physiological analysis of the eurythermal firmicute *Exiguobacterium chiriqhucha* strain RW2 isolated from a freshwater microbialite, widely adaptable to broad thermal, pH and salinity ranges**
+Journal Article is: Richard Allen White III, Sarah A Soles, Greg Gavelis, Emma Gosselin, Greg F Slater, Darlene S. S. Lim, Brian Leander, Curtis A. Suttle. **The complete genome and physiological analysis of the eurythermal firmicute *Exiguobacterium chiriqhucha* strain RW2 isolated from a freshwater microbialite, widely adaptable to broad thermal, pH and salinity ranges** [paper](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03189) 
 
 **Analysis**
 
